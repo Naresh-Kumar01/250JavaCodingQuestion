@@ -1,9 +1,7 @@
 package May_27_2025;
 
-import java.util.Scanner;
-
 public class TablePrint {
-    public static void main(String [] args)
+  public static void main(String [] args)
     {
         Scanner sc=new Scanner(System.in);
         System.out.println("please enter the number");
@@ -14,4 +12,8 @@ public class TablePrint {
            System.out.println(i*num);
        }
     }
-}
+    }
+
+      
+
+
