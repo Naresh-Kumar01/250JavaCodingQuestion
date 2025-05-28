@@ -1,5 +1,7 @@
 package May_27_2025;
 
+import java.util.Scanner;
+
 public class TablePrint {
   public static void main(String [] args)
     {
